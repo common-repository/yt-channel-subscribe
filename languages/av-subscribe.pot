@@ -1,0 +1,325 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Channel Subscribe - YouTube\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-16 08:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: includes/admin/tpl/yt-plugin-options.php:161
+msgid ""
+"<strong>Caution:</strong> this option will delete all settings and data when "
+"you uninstall the plugin."
+msgstr ""
+
+#: includes/admin/tpl/av-plugins-main.php:5
+msgid "Active plugins"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add a YouTube subscribe widget to your sidebar, to any page using shortcodes "
+"and automatically add the YouTube Subscribe button under every YouTube Video "
+"on your pages and posts."
+msgstr ""
+
+#. parent slug
+#: includes/admin/menus.php:29
+msgid "AV Channel Subscribe Options"
+msgstr ""
+
+#: includes/widgets/sidebar.php:97
+msgid "AV Plugin: Channel Subscribe"
+msgstr ""
+
+#. page title
+#: includes/admin/menus.php:17
+msgid "AV Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "AV Themes"
+msgstr ""
+
+#: includes/admin/menus.php:16
+msgid "AV Themes & Plugins Options"
+msgstr ""
+
+#: includes/widgets/tpl/sidebar-form.php:98
+msgid "Background color"
+msgstr ""
+
+#: includes/widgets/tpl/sidebar-form.php:110
+msgid "Border color"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:109
+#: includes/widgets/tpl/sidebar-form.php:79
+msgid "center"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:36
+#: includes/widgets/tpl/sidebar-form.php:16
+msgid "Channel ID"
+msgstr ""
+
+#. page title
+#: includes/admin/menus.php:30
+msgid "Channel Subscribe"
+msgstr ""
+
+#. Name of the plugin
+msgid "Channel Subscribe - YouTube"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:40
+msgid ""
+"Click here to obtain your <a href=\"http://www.youtube."
+"com/account_advanced\" target=\"_blank\">YouTube Channel ID <i class=\"av-"
+"icon dashicons dashicons-external\"></i></a>"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:17
+msgid "Configure Channel Subscription Button"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:64
+#: includes/widgets/tpl/sidebar-form.php:53
+msgid "dark"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:51
+#: includes/admin/tpl/yt-plugin-options.php:63
+#: includes/widgets/tpl/sidebar-form.php:40
+#: includes/widgets/tpl/sidebar-form.php:52
+#: includes/widgets/tpl/sidebar-form.php:66
+msgid "default"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:75
+msgid "default (shown)"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:198
+msgid "Default behaviour (from settings)"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:155
+msgid "Delete plugin settings"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:90
+msgid "Design settings"
+msgstr ""
+
+#: includes/widgets/sidebar.php:94
+msgid "Displays a channel subscribe button for YouTube."
+msgstr ""
+
+#: includes/widgets/tpl/sidebar-form.php:88
+msgid "Font color"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:52
+#: includes/widgets/tpl/sidebar-form.php:41
+msgid "full"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:27
+msgid "General settings"
+msgstr ""
+
+#: includes/activate.php:68
+msgid "Go to settings &rsaquo;"
+msgstr ""
+
+#: index.php:35
+msgid "Going fishing are we? Sorry no fishes here!"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:76
+#: includes/widgets/tpl/sidebar-form.php:67
+msgid "hidden"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://avthemes.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://avthemes.com/subscribe-plugin-youtube"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:47
+#: includes/widgets/tpl/sidebar-form.php:35
+msgid "Layout"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:108
+#: includes/widgets/tpl/sidebar-form.php:78
+msgid "left"
+msgstr ""
+
+#: includes/admin/tpl/av-plugins-main.php:6
+msgid ""
+"List of active AV Plugins on your site. Click on the plugin to go to the "
+"settings page."
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:227
+msgid ""
+"Our goal is to provide quality plugins and your feedback is very important "
+"to us."
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:205
+msgid "Override user settings"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:150
+msgid "Plugin uninstall"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:256
+msgid "Required fields"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:110
+#: includes/widgets/tpl/sidebar-form.php:80
+msgid "right"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:84
+#: includes/admin/tpl/yt-plugin-options.php:145
+#: includes/admin/tpl/yt-plugin-options.php:168
+msgid "Save settings"
+msgstr ""
+
+#: includes/activate.php:45
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:9
+msgid "Settings successfully saved."
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:195
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:212
+msgid "Shortcode parameters (all optional)"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:258
+msgid "Submit feedback"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:179
+msgid "Subscribe button preview"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:95
+#: includes/widgets/tpl/sidebar-form.php:24
+msgid "Subscribe text"
+msgstr ""
+
+#: includes/widgets/sidebar.php:44
+msgid "Subscribe to my channel"
+msgstr ""
+
+#: includes/activate.php:19
+msgid "Subscribe to our channel"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:71
+msgid "Subscriber count"
+msgstr ""
+
+#: includes/widgets/tpl/sidebar-form.php:61
+msgid "Subscribers count"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:244
+msgid "tell us what you think.."
+msgstr ""
+
+#: includes/activate.php:68
+msgid ""
+"Thank you for installing & activating the <strong>AV Channel "
+"Subscribe</strong> plugin."
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:233
+msgid "Thank you for your feedback!"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:59
+#: includes/widgets/tpl/sidebar-form.php:47
+msgid "Theme"
+msgstr ""
+
+#: includes/widgets/tpl/sidebar-form.php:8
+msgid "Title"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:234
+msgid "We appreciate it very much."
+msgstr ""
+
+#: includes/widgets/tpl/sidebar-form.php:73
+msgid "Widget align"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:104
+msgid "Widget alignment"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:126
+msgid "Widget background color"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:135
+msgid "Widget border color"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:117
+msgid "Widget font color"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:159
+msgid "Yes, delete all settings"
+msgstr ""
+
+#: includes/admin/process.php:19
+msgid "You are not allowed to access this page."
+msgstr ""
+
+#: includes/admin/process.php:12
+msgid "You are not allowed to be on this page."
+msgstr ""
+
+#: includes/widgets/tpl/sidebar-form.php:6
+msgid "You can change the parameters to override the settings."
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:226
+msgid "Your feedback"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:249
+msgid "Your name"
+msgstr ""
+
+#: includes/admin/tpl/yt-plugin-options.php:252
+msgid "your@email.com"
+msgstr ""
